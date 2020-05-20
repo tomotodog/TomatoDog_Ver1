@@ -22,12 +22,12 @@ tomotodog的机械结构部分图纸是开源的，你可以下载图纸3D打印
 更新中...
 
 ## FAQ
-[看我们的网站（建设中）.](https://tomotodog.org/)
-[See our website.](https://tomotodog.org/)
-你可以在这里找到我们[头条号](https://www.toutiao.com/c/user/2616465191612141/#mid=1667176522577924).
-You can also reach out to us on [头条号](https://www.toutiao.com/c/user/2616465191612141/#mid=1667176522577924).
-你可以在这里找到我们[bilibili](https://www.bilibili.com/video/BV13K4y1t7ti).
-You can also reach out to us on [bilibili](https://www.bilibili.com/video/BV13K4y1t7ti).
+* [看我们的网站（建设中）.](https://tomotodog.org/)
+* [See our website.](https://tomotodog.org/)
+* 你可以在这里找到我们[头条号](https://www.toutiao.com/c/user/2616465191612141/#mid=1667176522577924).
+* You can also reach out to us on [头条号](https://www.toutiao.com/c/user/2616465191612141/#mid=1667176522577924).
+* 你可以在这里找到我们[bilibili](https://www.bilibili.com/video/BV13K4y1t7ti).
+* You can also reach out to us on [bilibili](https://www.bilibili.com/video/BV13K4y1t7ti).
 
 
 ## License
