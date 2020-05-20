@@ -1,11 +1,10 @@
-## ![logo](https://github.com/tomotodog/machinery/screenshot/logo.png) TomotoDog
+## ![logo](https://github.com/tomotodog/machinery/blob/master/logo.jpg) TomotoDog
 machinery for tomotodog
 tomotodog的机械结构部分图纸是开源的，你可以下载图纸3D打印，自行DIY。
 * 制作完重量372克
 
-![screenshots of tomotodog](https://github.com/tomotodog/machinery/screenshot/screenshot/1.jpg)
-![screenshots of tomotodog](https://github.com/tomotodog/machinery/screenshot/screenshot/2.jpg)
-![screenshots of tomotodog](https://github.com/tomotodog/machinery/screenshot/screenshot/3.png)
+![screenshots of tomotodog](https://github.com/tomotodog/machinery/blob/master/screenshot/1.jpg)
+![screenshots of tomotodog](https://github.com/tomotodog/machinery/blob/master/screenshot/2.jpg)
 
 ## 特征
 ### v1.1
