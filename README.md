@@ -2,7 +2,6 @@
 machinery for tomotodog
 tomotodog的机械结构部分图纸是开源的，你可以下载图纸3D打印，自行DIY。
 * 制作完重量372克
-* 
 
 ![screenshots of tomotodog](https://github.com/tomotodog/machinery/screenshot/screenshot/1.jpg)
 ![screenshots of tomotodog](https://github.com/tomotodog/machinery/screenshot/screenshot/2.jpg)
@@ -18,10 +17,10 @@ tomotodog的机械结构部分图纸是开源的，你可以下载图纸3D打印
 
 ## 清单
 
-
+更新中...
 
 ## 制作教程
-
+更新中...
 
 ## FAQ
 [看我们的网站（建设中）.](https://tomotodog.org/)
@@ -48,5 +47,5 @@ You can also reach out to us on [bilibili](https://www.bilibili.com/video/BV13K4
     limitations under the License.
     
  ## 免责声明
- 
+ 更新中...
  
