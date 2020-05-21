@@ -25,8 +25,8 @@ machinery for tomotodog
 ## FAQ
 * [看我们的网站（https://www.tomotodog.org 正在建设中）.](https://www.tomotodog.org/)
 * [See our website.](https://www.tomotodog.org/)
-* 你可以在这里找到我们[头条号](https://www.toutiao.com/c/user/2616465191612141/#mid=1667176522577924).
-* You can also reach out to us on [头条号](https://www.toutiao.com/c/user/2616465191612141/#mid=1667176522577924).
+* 你可以在这里找到我们[头条号](https://www.toutiao.com/c/user/99602268242/#mid=1602169065754631).
+* You can also reach out to us on [头条号](https://www.toutiao.com/c/user/99602268242/#mid=1602169065754631).
 * 你可以在这里找到我们[bilibili](https://www.bilibili.com/video/BV13K4y1t7ti).
 * You can also reach out to us on [bilibili](https://www.bilibili.com/video/BV13K4y1t7ti).
 
