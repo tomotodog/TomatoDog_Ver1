@@ -4,8 +4,8 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/tomotodog/machinery/raw/master/screenshot/1.jpg">
-<img src="https://github.com/tomotodog/machinery/raw/master/screenshot/2.jpg">
+<img src="./screenshot/1.jpg">
+<img src="./screenshot/2.jpg">
 </p>
 
 
