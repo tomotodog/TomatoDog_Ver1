@@ -1,12 +1,20 @@
-## [logo] TomotoDog
-machinery for tomotodog
-* tomotodog的机械结构部分图纸是开源的，你可以下载图纸3D打印，自行DIY。
-* 制作完重量372克
+<h1 align="center"> TomotoDog - machinery for tomotodog</h1>
+<p align="center">
+<a href=""><img src="https://img.shields.io/badge/version-1.0.0-blue.svg"></a>
+</p>
 
-![](https://github.com/tomotodog/machinery/raw/master/screenshot/1.jpg)
-![](https://github.com/tomotodog/machinery/raw/master/screenshot/2.jpg)
+<p align="center">
+<img src="https://github.com/tomotodog/machinery/raw/master/screenshot/1.jpg">
+<img src="https://github.com/tomotodog/machinery/raw/master/screenshot/2.jpg">
+</p>
 
 
+<p align="center">
+tomotodog的机械结构部分图纸是开源的，你可以下载图纸3D打印，自行DIY。
+制作完重量372克
+</p>
+
+---
 ## 特征
 ### v1.1
 * 目前3d齿轮间隙有1度左右的摆幅
