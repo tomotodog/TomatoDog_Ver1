@@ -1,4 +1,4 @@
-<h1 align="center"> TomotoDog - machinery for tomotodog</h1>
+<h1 align="center"> TomotoDog_Ver1 - machinery for tomotodog</h1>
 <p align="center">
 <a href=""><img src="https://img.shields.io/badge/version-1.0.0-blue.svg"></a>
 </p>
